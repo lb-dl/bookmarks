@@ -2,3 +2,5 @@ env_bookmarks
 __pycache__/
 .idea/
 static_content/
+cert.crt
+cert.key
